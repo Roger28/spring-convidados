@@ -1,0 +1,1 @@
+insert into convidado (id, nome, quantidade_acompanhantes) values (1, 'Roger', 3);
